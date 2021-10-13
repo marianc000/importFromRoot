@@ -1,0 +1,9 @@
+{
+  "name": "sample",
+  "type": "module",
+  "imports": {
+    "#root/*": {
+      "default": "./*"
+    }
+  }
+}
